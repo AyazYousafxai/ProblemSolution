@@ -7,5 +7,5 @@ output = ['a_1', 'a_2', 'a_3', 'a_4', 'ayaz_1', 'ayaz_2', 'ayaz_3', 'c_1', 'c_2'
 ```
 ### Solution
 ```
-repeated.python
+repeated.py
 ```
