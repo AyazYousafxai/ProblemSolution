@@ -7,8 +7,7 @@ output = ['a_1', 'a_2', 'a_3', 'a_4', 'ayaz_1', 'ayaz_2', 'ayaz_3', 'c_1', 'c_2'
 ```
 ### Solution
 ```
-<<<<<<< HEAD
-repeated.python
+repeated.py
 ```
 # Problem 2
 #### Given an array Arr of size N containing positive integers. Count number of smaller elements on right side of each array.
@@ -53,7 +52,4 @@ inputArray=[1, 2, 3, 4, 2]
 sol=Solution()
 sol.constructLowerArray(inputArray,startIndex,outputArray)
 print(outputArray)
-=======
-repeated.py
->>>>>>> e8d87b1367241d10f1cbd14ef28bbffaa7a0e482
 ```
